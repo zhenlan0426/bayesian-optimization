@@ -1,1 +1,1 @@
-# Implement bayesian-optimization with sklearn.gaussian_process and scipy.optimize
+Implement bayesian-optimization with sklearn.gaussian_process and scipy.optimize
